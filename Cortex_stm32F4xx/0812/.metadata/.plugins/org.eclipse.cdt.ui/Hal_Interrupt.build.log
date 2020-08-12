@@ -1,0 +1,11 @@
+16:47:27 **** Incremental Build of configuration Debug for project Hal_Interrupt ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "Hal_Interrupt.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8675	    160	    460	   9295	   244f	Hal_Interrupt.elf
+Finished building: Hal_Interrupt.siz
+ 
+
+16:47:28 Build Finished (took 293ms)
+
